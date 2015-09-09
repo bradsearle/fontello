@@ -1,2 +1,4 @@
-# fontello
-Using fontello.com for icon fonts
+fontello
+========
+
+Icon Fonts via Fontello.com
